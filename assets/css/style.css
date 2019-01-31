@@ -1,0 +1,78 @@
+body{
+  /* background-image: url(http://littleone.me/wp-content/uploads/tittle-throughout-white-textured-wallpaper.jpg); */
+  background-image: url(http://hdqwalls.com/wallpapers/material-design-grey-po.jpg);
+  background-attachment: fixed;
+  padding-top: 30px;
+}
+.container-fluid {
+  background-image: url(http://maximumwallhd.com/wp-content/uploads/2016/12/fond-ecran-wallpaper-image-fonds-ecran-abstrait-noir-et-blanc-20.jpg);
+  /* background-image: url(http://www.aljanh.net/data/archive/img/2182021998.jpeg); */
+  background-attachment: fixed;
+}
+/* titre1 */
+h1 {
+  color:  #183584;
+  /* color:  #1c606e; */
+  font-family: Drim;
+  font-size: 3.5em;
+  text-align: center;
+  margin-top: 15%;
+}
+/* titre2 */
+h2 {
+  text-align: center;
+  margin-top: 2%;
+  color: white;
+  /* color: grey; */
+  font-size: 2.5em;
+  fon
+}
+/* Formation... */
+h3 {
+  color: white;
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  font-weight: bold;
+  font-size: 2em;
+}
+h4 {
+  color: black;
+  /* color: white; */
+  /* text-align: center; */
+  margin-top: 10%;
+  margin-bottom: 5%;
+  font-weight: bold;
+  font-size: 2em;
+}
+button {
+  margin-top: 10%;
+  text-align: center;
+}
+/* titre de formation */
+.display-4{
+  font-weight: bold;
+  font-size: 30px;
+}
+/* github githlab */
+.icon {
+  font-size: 70px;
+  color: black;
+}
+/* linkedin */
+.icon1 {
+    font-size: 70px;
+}
+#mail{
+  margin-left: 5%;
+}
+.text-formation {
+  color: white;
+}
+.titleSkills{
+  text-align: center;
+  color: white;
+}
+#four{
+  text-align: center;
+}
